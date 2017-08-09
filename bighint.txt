@@ -8,7 +8,7 @@ You are simultaneously relieved and dreading to hear that voice.
 
 "Boss, I need help. I think this world is rigged—could this all just be a game someone is playing?"
 
-"No time to break the fourth wall Agent, I just received insider information from an anonymous informant. She didn't leave her name, but she did leave us some crucial information about your target. You're looking for a 16 digit code to open the door. She left me with the address 0x______." // insert address of the 16 digit code. (FIXME!!!!)
+"No time to break the fourth wall Agent, I just received insider information from an anonymous informant. She didn't leave her name, but she did leave us some crucial information about your target. You're looking for a 16 digit code to open the door. She left me with the address 0x______." FIXME
 
 "More magic numbers! The last one barely did me any good."
 
