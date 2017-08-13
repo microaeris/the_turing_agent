@@ -19,6 +19,13 @@ You are jerked out of the email simulation, which is a sensation that is compara
 
 ---
 
+Credits
+
+This game was made in collaboration by Lillian and Alice Wang.
+Thanks Lillian for the amazing artwork! <3
+
+---
+
 Version History
 
 1.0 - 08/10/2017 - First release
